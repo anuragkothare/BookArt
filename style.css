@@ -157,8 +157,9 @@ body {
     position: relative;
     height: auto;
     background-color: #070617;
-  }
-  .footer .col {
+}
+
+.footer .col {
     width: 190px;
     height: auto;
     float: left;
@@ -166,8 +167,9 @@ body {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     padding: 0px 20px 20px 20px;
-  }
-  .footer .col h1 {
+}
+
+.footer .col h1 {
     margin: 0;
     padding: 0;
     font-family: inherit;
@@ -178,13 +180,15 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.250em;
-  }
-  .footer .col ul {
+}
+
+.footer .col ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
-  .footer .col ul li {
+}
+
+.footer .col ul li {
     color: #999999;
     font-size: 13px;
     font-family: 'Varela Round', sans-serif;
@@ -194,31 +198,33 @@ body {
     transition: .2s;
     -webkit-transition: .2s;
     -moz-transition: .2s;
-  }
-  .social ul li {
+}
+
+.social ul li {
     display: inline-block;
     padding-right: 5px !important;
-  }
-  
-  .footer .col ul li:hover {
+}
+
+.footer .col ul li:hover {
     color: #ffffff;
     transition: .1s;
     -webkit-transition: .1s;
     -moz-transition: .1s;
-  }
-  .clearfix {
-    clear: both;
-  }
+}
 
-  .foot-img {
+.clearfix {
+    clear: both;
+}
+
+.foot-img {
     padding: 12px;
     scale: 0.1%;
     width: 100%;
     height: 100%;
 
-    
-  }
-  
+
+}
+
 
 
 
@@ -258,13 +264,15 @@ body {
 
     .footer .col {
         width: 50%;
-      }
-      .footer .col h1 {
+    }
+
+    .footer .col h1 {
         font-size: 14px;
-      }
-      .footer .col ul li {
+    }
+
+    .footer .col ul li {
         font-size: 13px;
-      }
+    }
 
 }
 
@@ -379,5 +387,5 @@ body {
 
     .footer .col {
         width: 100%;
-      }
+    }
 }
